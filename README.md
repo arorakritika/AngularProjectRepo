@@ -1,3 +1,6 @@
+# Description
+This project is called Recipe and Shopping List Website. Here users can create, edit recipes, add ingredients to the recipe. Also Shopping List is implemented so that the user can add the required ingredients in the shopping list after seeing from the recipe.
+
 # NgCompleteGuideUpdate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
